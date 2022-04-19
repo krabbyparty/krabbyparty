@@ -5,8 +5,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
   
-![](https://raw.githubusercontent.com/krabbyparty/github-stats/master/generated/overview.svg)
-![](https://github.com/krabbyparty/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/krabbyparty/github-stats/blob/master/templates/overview.svg)
+![](https://github.com/krabbyparty/github-stats/blob/master/templates/languages.svg)
 
 </a>
 
